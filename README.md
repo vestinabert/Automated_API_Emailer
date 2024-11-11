@@ -14,7 +14,6 @@ If you choose to fetch data from the GitHub API, you will receive a summary of m
    ```plaintext
    EMAIL=your_email@gmail.com
    PASSWORD=your_app_password
-
 If you are unsure how to create an app password for Gmail, please refer to this [Gmail App Passwords Guide](https://support.google.com/mail/answer/185833?hl=en).
 
 ## Running the Program
@@ -32,16 +31,7 @@ To run the program, open your terminal and use the following commands:
   ```bash
   pytest test
 
+## Results
+<img width="390" alt="nasa" src="https://github.com/user-attachments/assets/4c225065-b0a1-4d6e-a72c-840eb86d9d48">
 
-# My fav shortcuts
-
-## Close Tab
-Cmd + W (macOS) / Ctrl + W (Windows)
-## Toggle Comment
-Cmd + / (macOS) / Ctrl + / (Windows)
-## Zoom In/Out
-Cmd + - / Cmd + + (macOS) / Ctrl + - / Ctrl + + (Windows)
-## Duplicate Line
-Shift + Option + Down Arrow (macOS) / Shift + Alt + Down Arrow (Windows)
-## Delete Line
-Cmd + Shift + K (macOS) / Ctrl + Shift + K (Windows)
+<img width="384" alt="github" src="https://github.com/user-attachments/assets/6405cf2b-7aca-4941-b497-673f337b181a">
